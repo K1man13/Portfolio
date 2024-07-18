@@ -1,6 +1,6 @@
 /* Footer */
 footer {
-    background-color: #333;
+    background-color: #1d5659;
     color: white;
     text-align: center;
     padding: 2em 0;
@@ -28,7 +28,7 @@ footer .footer-column h3 {
 
 footer .footer-column p,
 footer .footer-column a {
-    color: #ccc;
+    color: white;
     text-decoration: none;
     margin-bottom: 0.5em;
     display: block;
@@ -56,7 +56,7 @@ footer .social-media {
 }
 
 footer .social-media a {
-    color: white;
+    color:                                                                                                                                              rgb(8, 8, 8);
     font-size: 1.5em;
     transition: color 0.3s;
 }

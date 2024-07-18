@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: rgb(3, 48, 77);
+    background-color: rgb(125 182 219);
 }
 
 nav {
@@ -12,7 +12,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 1em 2em;
-    background-color: #333;
+    background-color: #0bb7dd;
     color: white;
 }
 
@@ -132,17 +132,17 @@ nav {
 
 .testimonial h4 {
     margin-top: 0.5em;
-    color
+    color :#0d98b8;
 }
     /* Blog Section */
 .blog {
-    background-color: #f9f9f9;
     padding: 3em 0;
     text-align: center;
 }
 
 .blog h2 {
     font-size: 2.5em;
+    
     margin-bottom: 1em;
     color: #333;
 }
